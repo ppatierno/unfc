@@ -1,5 +1,7 @@
 # unfc
 
+![](images/uNFC.jpg)
+
 uNFC - NFC library for .Net platforms
 
 uNFC library allow to use NFC integrated circuit connected to your PC (via serial) or to embedded system based on Windows Embedded Compact or .Net Micro Framework.
